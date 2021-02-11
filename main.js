@@ -1,11 +1,21 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+myFirstName = ("Ronny");
+myLastName = ("Thinkal");
+myBestFriend = ("Rahul");
+mySentence = ("myFirstName, myLastName, myBestFriend");
+myFavoriteNum = (369);
+myMentalAge = (50);
+myHeight = (71);
+myFavoriteYear = (2019);
+mySum = 3 + 1918 + 24 + 1;
+myProduct = 232 * 43 / 2 + 4;
+myHeightAndAge = (myMentalAge + myHeight);
 
-
-
-
-
+mySum;
+myHeightAndAge;
+myHeight;
 
 
 /*********************************************************************************************************************
