@@ -4,7 +4,7 @@
 myFirstName = ("Ronny");
 myLastName = ("Thinkal");
 myBestFriend = ("Rahul");
-mySentence = ("myFirstName, myLastName, myBestFriend");
+mySentence = (myFirstName + " " + myLastName + " " + myBestFriend +'.');
 myFavoriteNum = (369);
 myMentalAge = (50);
 myHeight = (71);
@@ -16,7 +16,8 @@ myHeightAndAge = (myMentalAge + myHeight);
 mySum;
 myHeightAndAge;
 myHeight;
-
+mySentence;
+console.log(mySentence);
 
 /*********************************************************************************************************************
 
